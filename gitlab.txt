@@ -1,3 +1,3 @@
 1- git rm --cached.
-2 git restore command successfully used
 
+3 git restore command successfully used bt it does not work after commit.
